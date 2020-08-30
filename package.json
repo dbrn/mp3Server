@@ -1,0 +1,13 @@
+{
+  "name": "YTtoMp3Server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "dbrn",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ytdl-core": "^3.2.2",
+    "ytpl": "^0.3.0"
+  }
+}
